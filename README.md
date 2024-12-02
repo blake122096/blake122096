@@ -3,7 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b> Microsoft Azure </b>
-  - [Montoring Network Traffic with Azure  VMs](https://github.com/blake122096/osticket-prereqs)
+  - [Montoring Network Traffic with Azure  VMs](https://github.com/blake122096/Azure-Compute-Networking)
   - [Setup and Use a VPN Azure](https://github.com/blake122096/post-install-config)
  
 
