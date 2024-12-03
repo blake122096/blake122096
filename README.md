@@ -4,7 +4,7 @@
 
 - <b> Microsoft Azure </b>
   - [Montoring Network Traffic with Azure  VMs](https://github.com/blake122096/Azure-Compute-Networking)
-  - [Setup and Use a VPN Azure](https://github.com/blake122096/post-install-config)
+  - [Setup and Use a VPN Azure](https://github.com/blake122096/How-to-Setup-and-Use-a-VPN-within-Azure)
  
 
 - <b>osTicket (Help Desk Ticketing System)</b>
